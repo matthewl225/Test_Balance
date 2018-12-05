@@ -1,0 +1,25 @@
+- can connect wii board to android (open source app: fitscales)
+- use accelerometer in android device?
+- convert matlab scripts in to java (java can do data analysis and android only supports java)
+
+- mean velocity of COP (center of pressure)
+- COM acceleration in the anterior-posterior direction was the most statistically significant difference between the three stances (eyes closed/open, mental task) STANDING
+- differences were found only in velocity and acceleration. With conditions (STR) and (MET) showing a statistical difference in acceleration in the anterior-posterior (AP) direction WALKING
+
+
+- Romberg ratio - ratio of eyes closed measure to the eyes-open measure
+
+- standing balance characterized with measures based on displaement of COP measured with force platform, teh horizontal and vertialreaction forces also measured with force platform, or horizontal displacement at subject's waist
+- COP = location of vertical reaction vector on surface of force platform
+
+TO DO:
+
+- make sure COP computation is correct 
+- for walking, mean velocity and rms distance of cop
+anterior-posterior (AP) and medial-lateral (ML)
+
+stabliogram?
+
+android 4.2+ can't connect to wiiboard
+
+wiiboard connects to computer but matlab scripts don't recognize it
